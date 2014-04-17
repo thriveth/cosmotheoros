@@ -1,0 +1,404 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.2)  18 APR 2014 01:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cosmotheoros.tex
+(./cosmotheoros.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\wpXoffset=\skip46
+\wpYoffset=\skip47
+\tileXoffset=\skip48
+\tileYoffset=\skip49
+\tilewidth=\skip50
+\tileheight=\skip51
+\tileX=\skip52
+\tileY=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count92
+\AM@templatesizebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count93
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+(./cosmotheoros.aux)
+\openout1 = `cosmotheoros.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen107
+\scratchbox=\box28
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen108
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box29
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+<ct_title_la.pdf, id=1, 397.72589pt x 515.76692pt>
+File: ct_title_la.pdf Graphic file (type pdf)
+ <use ct_title_la.pdf>
+Package pdftex.def Info: ct_title_la.pdf used on input line 11.
+(pdftex.def)             Requested size: 397.72491pt x 515.76567pt.
+File: ct_title_la.pdf Graphic file (type pdf)
+
+<use ct_title_la.pdf>
+Package pdftex.def Info: ct_title_la.pdf used on input line 11.
+(pdftex.def)             Requested size: 397.72491pt x 515.76567pt.
+
+<ct_title_la.pdf, id=4, page=1, 397.72589pt x 515.76692pt>
+File: ct_title_la.pdf Graphic file (type pdf)
+
+<use ct_title_la.pdf, page 1>
+Package pdftex.def Info: ct_title_la.pdf, page1 used on input line 11.
+(pdftex.def)             Requested size: 397.72491pt x 515.76567pt.
+File: ct_title_la.pdf Graphic file (type pdf)
+ <use ct_title_la.pdf, page 1>
+Package pdftex.def Info: ct_title_la.pdf, page1 used on input line 11.
+(pdftex.def)             Requested size: 613.93806pt x 796.14871pt.
+File: ct_title_la.pdf Graphic file (type pdf)
+
+<use ct_title_la.pdf, page 1>
+Package pdftex.def Info: ct_title_la.pdf, page1 used on input line 11.
+(pdftex.def)             Requested size: 613.93806pt x 796.14871pt.
+File: ct_title_la.pdf Graphic file (type pdf)
+ <use ct_title_la.pdf, page 1>
+Package pdftex.def Info: ct_title_la.pdf, page1 used on input line 11.
+(pdftex.def)             Requested size: 613.93806pt x 796.14871pt.
+File: ct_title_la.pdf Graphic file (type pdf)
+
+<use ct_title_la.pdf, page 1>
+Package pdftex.def Info: ct_title_la.pdf, page1 used on input line 11.
+(pdftex.def)             Requested size: 613.93806pt x 796.14871pt.
+ [1
+
+
+ <./ct_title_la.pdf>] [2
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] [3] [4
+
+] [5] [6
+
+]
+(./cosmotheoros.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+ [7] [8])
+\tf@toc=\write3
+\openout3 = `cosmotheoros.toc'.
+
+ [9] [10
+
+] [1
+
+]
+Overfull \hbox (12.37964pt too wide) in paragraph at lines 168--168
+[]\OT1/cmr/bx/n/14.4 These Con-jec-tures do not con-tra-dict the holy Scrip-
+ []
+
+[2] [3] <ct_1_en.jpg, id=65, 366.4089pt x 380.8629pt>
+File: ct_1_en.jpg Graphic file (type jpg)
+ <use ct_1_en.jpg>
+Package pdftex.def Info: ct_1_en.jpg used on input line 264.
+(pdftex.def)             Requested size: 310.4979pt x 322.74702pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5 <./ct_1_en.jpg>] <ct_2_en.jpg, id=72, 362.5545pt x 382.7901pt>
+File: ct_2_en.jpg Graphic file (type jpg)
+
+<use ct_2_en.jpg>
+Package pdftex.def Info: ct_2_en.jpg used on input line 328.
+(pdftex.def)             Requested size: 310.4979pt x 327.84381pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./ct_2_en.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.d
+ef
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Overfull \hbox (10.45459pt too wide) in paragraph at lines 392--392
+[]\OT1/cmr/bx/n/14.4 Arguments from their Simil-i-tude of no small weight 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23]
+Underfull \vbox (badness 2521) has occurred while \output is active []
+
+ [24]
+[25] [26]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [27]
+[28] [29]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [30]
+[31] [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+[36] [37
+
+] [38] [39] [40] <ct_3_en.jpg, id=185, 593.8185pt x 339.4281pt>
+File: ct_3_en.jpg Graphic file (type jpg)
+
+<use ct_3_en.jpg>
+Package pdftex.def Info: ct_3_en.jpg used on input line 1911.
+(pdftex.def)             Requested size: 310.4979pt x 177.4825pt.
+ [41 <./ct_3_en.jpg>] [42] [43] [44]
+<ct_4_en.jpg, id=199, 422.2977pt x 236.3229pt>
+File: ct_4_en.jpg Graphic file (type jpg)
+ <use ct_4_en.jpg>
+Package pdftex.def Info: ct_4_en.jpg used on input line 2122.
+(pdftex.def)             Requested size: 310.4979pt x 173.76195pt.
+ [45 <./ct_4_en.jpg>] [46] [47] [48] [49] [50] <ct_5_en.jpg, id=219, 302.8113pt
+ x 244.9953pt>
+File: ct_5_en.jpg Graphic file (type jpg)
+
+<use ct_5_en.jpg>
+Package pdftex.def Info: ct_5_en.jpg used on input line 2379.
+(pdftex.def)             Requested size: 310.4979pt x 251.23769pt.
+ [51 <./ct_5_en.jpg>]
+Underfull \vbox (badness 4779) has occurred while \output is active []
+
+ [52]
+[53] [54] [55] [56] [57] [58] [59] (./cosmotheoros.aux) ) 
+Here is how much of TeX's memory you used:
+ 3809 strings out of 493304
+ 53113 string characters out of 6139872
+ 134833 words of memory out of 5000000
+ 7218 multiletter control sequences out of 15000+600000
+ 5852 words of font info for 21 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 39i,18n,45p,340b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on cosmotheoros.pdf (71 pages, 3462531 bytes).
+PDF statistics:
+ 274 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
