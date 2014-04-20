@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  20 APR 2014 22:35
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  21 APR 2014 00:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,47 +563,50 @@ LaTeX Info: Redefining \upshape on input line 2102.
 . fontspec info: "defining-font"
 . 
 . Font family 'EBGaramond(0)' created for font 'EB Garamond' with options [
-. Ligatures={Common, Rare, TeX}, Numbers=OldStyle, Contextuals={Swash, Inner},
-. Variant=0, BoldFont={EB Garamond 08 Regular}, ].
+. Ligatures={Common, Rare, Historic, TeX}, Numbers=OldStyle,
+. Contextuals={Swash, Inner}, Variant=0, BoldFont={EB Garamond 08 Regular}, ].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
 . <->"EB
-. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;"
+. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+on
+um;"
 . 
 . * 'small caps' with NFSS spec.:
 . <->"EB
-. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;+sm
-cp;"
+. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+on
+um;+smcp;"
 . 
 . * 'bold' with NFSS spec.:
 . <->"EB Garamond 08
-. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;"
+. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+onu
+m;"
 . 
 . * 'bold small caps' with NFSS spec.:
 . <->"EB Garamond 08
-. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;+smc
-p;"
+. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+onu
+m;+smcp;"
 . 
 . * 'italic' with NFSS spec.:
 . <->"EB
-. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;"
-
+. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+
+onum;"
 . 
 . * 'italic small caps' with NFSS spec.:
 . <->"EB
-. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;+
-smcp;"
+. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+
+onum;+smcp;"
 . 
 . * 'bold italic' with NFSS spec.:
 . <->"EB Garamond 08
-. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;"
+. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+o
+num;"
 . 
 . * 'bold italic small caps' with NFSS spec.:
 . <->"EB Garamond 08
-. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+onum;+s
-mcp;"
+. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+o
+num;+smcp;"
 .................................................
 (/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
 Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
@@ -988,8 +991,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [49] [50] [51] [52] (./cosmotheoros.aux) ) 
 Here is how much of TeX's memory you used:
  14434 strings out of 493918
- 295608 string characters out of 6150564
- 361863 words of memory out of 5000000
+ 295715 string characters out of 6150564
+ 361952 words of memory out of 5000000
  17575 multiletter control sequences out of 15000+600000
  3936 words of font info for 51 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
