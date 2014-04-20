@@ -1,8 +1,20 @@
 \documentclass[letterpaper]{book}
+\usepackage{fontspec}
+\setmainfont[
+             Ligatures={Common, Rare, TeX}, 
+             Numbers=OldStyle,
+	     Contextuals={Swash, Inner},
+	     %Style=Historic,
+	     Variant=0,
+	     BoldFont={EB Garamond 08 Regular},
+	     ]{EB Garamond}%{Junicode}%{Adobe Caslon Pro}%{Linux Libertine O}% {Garamond Premier Pro}%{Fanwood}%{OFL Sorts Mill Goudy}%\usepackage{xunicode}
+\usepackage{xltxtra}
 \usepackage{graphicx}
-\usepackage{wallpaper}
+%\usepackage{wallpaper}
 \usepackage{pdfpages}
-\usepackage[utf8x]{inputenc}
+\pdfpagewidth=\paperwidth
+\pdfpageheight=\paperheight
+%\usepackage[utf8x]{inputenc}
 \setcounter{secnumdepth}{-1}
 \pagestyle{plain}
 
@@ -13,38 +25,46 @@
 
 \begin{titlepage}
 	\begin{center}
-		\Huge
-THE \\
-Celestial Worlds \\
-DISCOVER'D: \\
+\LARGE THE \\
+\small \phantom{bla bla}
+{\fontsize{42}{42} \fontspec{EB Garamond}Celeſtial Worlds} \\
+\small \phantom{bla bla}
+\LARGE DISCOVER'D: \\
 OR, \\
-CONJECTURES \\
-Concerning the \\
-INHABITANTS, \\
-PLANTS and PRODUCTIONS \\
-OF THE \\
-Worlds in the Planets \\
+\fontsize{36}{36} \fontspec{EB Garamond} \textsc{conjectures} \\
+\tiny \phantom{bla bla}
+\LARGE Concerning the \\
+\fontsize{36}{36} \fontspec{EB Garamond} \textsc{inhabitants,} \\
+\tiny \phantom{bla bla}
+\Huge \textsc{Plants} and \textsc{Productions} \\
+\small 
+\phantom{blabla}
+\Large OF THE \\
+\large \phantom{blabla}
+{\fontsize{42}{36} \fontspec{Isabella}Worlds in the Planets} \\
 \phantom{bla bla}
+\hrule
 \phantom{bla bla}
 \Large
 Written in Latin by \\
-\emph{Christianus Huygens}, \\
-And inscrib'd to his Brother \\
-CONSTANTIN HUYGENS, \\
-Late Secretary to his Majesty K. \emph{William} \\
+\emph{CHRISTIANUS HUYGENS}, \\
+And inſcrib'd to his Brother \\
+\emph{CONSTANTINE HUYGENS}, \\
+Late Secretary to his Majeſty K. \emph{William} \\
 \phantom{bla bla}
+\hrule
 \phantom{bla bla}
-LONDON, \\
-Printed for TIMOTHY CHILDE at the \\
-White Hart at the West-end of St. \\
-Paul's Church-yard. MDCXCVIII
+\textsc{\emph {LONDON}}, \\
+Printed for \textsc{Timothy Childe} at the \\
+White Hart at the Weſt-end of St. \\
+\emph{Paul's} Church-yard. \, \, MDCXCVIII.
 \end{center}
 \end{titlepage}
 
 
 \chapter{TO THE READER} % (fold)
 \label{sec:TO THE READER}
-
+% manuaally insert ſ's?
 THIS Book was just finished, and designed for the Press, when the Author,
 to the great loss of the Learned World, was seized by a Disease that brought
 him to his Death. However he took care in his last Will of its Publication,
