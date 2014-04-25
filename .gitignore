@@ -1,2 +1,5 @@
 # All logfiles
 *.log
+*.aux
+*.dvi
+*.toc
