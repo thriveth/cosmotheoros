@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  26 APR 2014 01:13
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  21 APR 2014 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -675,27 +675,6 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 )
 \xxt@tempbox=\box41
 )
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
-\c@DefaultLines=\count125
-\DefaultFindent=\dimen140
-\DefaultNindent=\dimen141
-\DefaultSlope=\dimen142
-\L@lbox=\box42
-\L@tbox=\box43
-\c@L@lines=\count126
-\L@Pindent=\dimen143
-\L@Findent=\dimen144
-\L@Nindent=\dimen145
-\L@lraise=\dimen146
-\L@first=\dimen147
-\L@next=\dimen148
-\L@slope=\dimen149
-\L@height=\dimen150
-\LettrineWidth=\dimen151
-
-Loading lettrine.cfg
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
 
@@ -704,15 +683,15 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count127
-\calc@Bcount=\count128
-\calc@Adimen=\dimen152
-\calc@Bdimen=\dimen153
+\calc@Acount=\count125
+\calc@Bcount=\count126
+\calc@Adimen=\dimen140
+\calc@Bdimen=\dimen141
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count129
+\calc@Ccount=\count127
 \calc@Cskip=\skip51
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -746,34 +725,34 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
 File: ppxetex.def 2013/08/25 v0.4v Pdfpages driver for XeTeX (AM)
 )
-\AM@pagebox=\box44
+\AM@pagebox=\box42
 \AM@toc@title=\toks19
-\c@AM@survey=\count130
-\AM@templatesizebox=\box45
+\c@AM@survey=\count128
+\AM@templatesizebox=\box43
 )
 (./cosmotheoros.aux)
 \openout1 = `cosmotheoros.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 21.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -781,71 +760,71 @@ LaTeX Font Info:    ... okay on input line 22.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 21.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 21.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 21.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 21.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 21.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 21.
+LaTeX Font Info:    Redeclaring math accent \check on input line 21.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 21.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 21.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/EBGaramond(0)/m/n on input line 22.
+(Font)                  OT1/cmr/m/n --> EU1/EBGaramond(0)/m/n on input line 21.
 
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/m/n on input line 22
+(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/m/n on input line 21
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/m/n on inpu
-t line 22.
+t line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/m/n on inpu
-t line 22.
+t line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/EBGaramond(0)/m/it on input line 2
-2.
+1.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/bx/n on input line 2
-2.
+1.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/bx/n on inp
-ut line 22.
+ut line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/bx/n on inp
-ut line 22.
+ut line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/EBGaramond(0)/bx/it on input line
- 22.
+ 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 22.
-\AtBeginShipoutBox=\box46
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 21.
+\AtBeginShipoutBox=\box44
 File: ct_title_la.pdf Graphic file (type QTm)
 
 <use  "ct_title_la.pdf" >
@@ -913,7 +892,7 @@ File: ct_title_la.pdf Graphic file (type QTm)
 . 
 . This font family consists of the following shapes:
 .................................................
-\g_fontspec_family_Isabella_int=\count131
+\g_fontspec_family_Isabella_int=\count129
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -960,59 +939,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [9] [10
 
-]
-Missing character: There is no   in font EB Garamond Initials!
-Missing character: There is no   in font EB Garamond Initials/OT!
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font EB Garamond Initials does not contain any OpenType `Script'
-. information.
-.................................................
-\g_fontspec_family_EB Garamond Initials_int=\count132
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond Initials/B (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond Initials/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond Initials/BI (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramondInitials(0)' created for font 'EB Garamond Initials'
-. with options [Scale=.78].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->s*[.78]"EB Garamond Initials/ICU:"
-.................................................
-LaTeX Font Info:    Font shape `EU1/EBGaramondInitials(0)/m/n' will be
-(Font)              scaled to size 72.53001pt on input line 114.
-Missing character: There is no   in font EB Garamond Initials/OT!
-
-Overfull \hbox (1.98013pt too wide) in paragraph at lines 114--133
-[][] \EU1/EBGaramond(0)/bx/n/10 of Copernicus’s Opinion, that this Earth of our
-s is a Planet,
- []
-
-[1
+] [1
 
 ] [2] [3]
 File: ct_1_en.jpg Graphic file (type QTm)
- <use  "ct_1_en.jpg" > [4]
+
+<use  "ct_1_en.jpg" > [4]
 File: ct_2_en.jpg Graphic file (type QTm)
- <use  "ct_2_en.jpg" > [5] [6] [7]
-[8] [9] [10] [11] [12] [13]
+ <use  "ct_2_en.jpg" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7] [8] [9] [10] [11] [12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
@@ -1026,37 +964,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [29]
 [30] [31] [32
 
-]
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font EB Garamond Initials does not contain any OpenType `Script'
-. information.
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramondInitials(0)' created for font 'EB Garamond Initials'
-. with options [Scale=.78].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
-. 
-. This font family consists of the following shapes:
-.................................................
- [33] [34]
-Underfull \vbox (badness 1817) has occurred while \output is active []
+] [33] [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
 File: ct_3_en.jpg Graphic file (type QTm)
@@ -1081,11 +990,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [48]
 [49] [50] [51] [52] (./cosmotheoros.aux) ) 
 Here is how much of TeX's memory you used:
- 14538 strings out of 493918
- 298058 string characters out of 6150564
- 363047 words of memory out of 5000000
- 17656 multiletter control sequences out of 15000+600000
- 4008 words of font info for 60 fonts, out of 8000000 for 9000
+ 14434 strings out of 493918
+ 295715 string characters out of 6150564
+ 361952 words of memory out of 5000000
+ 17575 multiletter control sequences out of 15000+600000
+ 3936 words of font info for 51 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  46i,18n,50p,10401b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
