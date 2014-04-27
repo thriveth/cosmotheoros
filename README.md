@@ -36,7 +36,7 @@ I have spent some time looking around for good fonts to emulate the old-style La
 The use of the 'Long s'  (ſ) character follows the rules listed at the [Babelstone] blog for 17th century books. XeLaTeX has some support for simple rules, but as is described in the Babelstone blog post, these rules (basically: Short 's' at the end of words, long 'ſ' at the beginning and inside of words) are somewhat over/simplified and inaccurate.
 
 
-[Download]: ./cosmotheoros.pdf
+[download]: ./cosmotheoros.pdf
 [R.H. van Gent]: http://www.staff.science.uu.nl/~gent0113/huygens/huygens_ct_en.htm
 [Gimp]: http://www.gimp.org
 [Fell Type]: http://iginomarini.com/fell/the-revival-fonts/
