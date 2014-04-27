@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  26 APR 2014 23:58
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  27 APR 2014 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -619,34 +619,33 @@ LaTeX Info: Redefining \upshape on input line 2102.
 . 
 . Font family 'IMFELLEnglishPRO(0)' created for font 'IM FELL English PRO'
 . with options [ Ligatures={Common, Rare, Historic, TeX}, Numbers=OldStyle,
-. Contextuals={Swash, Inner}, Style=Historic, Variant=0, BoldFont={IM FELL
-. English PRO}, ].
+. Contextuals={Swash, Inner}, Variant=0, BoldFont={IM FELL English PRO}, ].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
 . <->"IM FELL English
-. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;"
 . 
 . * 'small caps' with NFSS spec.:
 . <->"IM FELL English
-. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;+smcp;"
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+smcp;"
 . 
 . * 'bold' with NFSS spec.:
 . <->"IM FELL English
-. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;"
 . 
 . * 'bold small caps' with NFSS spec.:
 . <->"IM FELL English
-. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;+smcp;"
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+smcp;"
 . 
 . * 'italic' with NFSS spec.:
 . <->"IM FELL English
-. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
+. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;"
 . 
 . * 'bold italic' with NFSS spec.:
 . <->"IM FELL English
-. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
+. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;"
 .................................................
 (/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
 Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
@@ -1070,6 +1069,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
+Overfull \hbox (11.24023pt too wide) in paragraph at lines 412--417
+\EU1/IMFELLEnglishPRO(0)/bx/n/10 ’Tis therefore an Argument of no ſmall weight 
+that is fetch’d from Relation and Likeneſs;
+ []
+
 [8] [9] [10] [11] [12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1080,14 +1084,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [21]
 [22]
 Overfull \hbox (1.30664pt too wide) in paragraph at lines 1144--1147
-\EU1/IMFELLEnglishPRO(0)/bx/n/10 Again, these Instruments can’t be without a Ci
-rcle divided into equal Parts, or a streight
+\EU1/IMFELLEnglishPRO(0)/bx/n/10 Again, theſe Inſtruments can’t be without a Ci
+rcle divided into equal Parts, or a ſtreight
  []
 
 
 Overfull \hbox (3.25098pt too wide) in paragraph at lines 1173--1189
 \EU1/IMFELLEnglishPRO(0)/bx/n/10 But for all our large and liberal allowances t
-o these Gentlemen, they will still be behind-
+o theſe Gentlemen, they will ſtill be behind-
  []
 
 [23] [24] [25] [26]
@@ -1151,7 +1155,13 @@ Underfull \vbox (badness 4291) has occurred while \output is active []
 . 
 . This font family consists of the following shapes:
 .................................................
- [35
+
+Overfull \hbox (7.21199pt too wide) in paragraph at lines 1742--1754
+[][] \EU1/IMFELLEnglishPRO(0)/bx/n/10 many years ago that I chanc’d to light up
+on Athanaſius
+ []
+
+[35
 
 ] [36] [37]
 File: ct_3_en.jpg Graphic file (type QTm)
@@ -1178,8 +1188,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [49] [50] [51] [52] [53] [54] [55] [56] (./cosmotheoros.aux) ) 
 Here is how much of TeX's memory you used:
  14556 strings out of 493918
- 298660 string characters out of 6150564
- 360473 words of memory out of 5000000
+ 298559 string characters out of 6150564
+ 359378 words of memory out of 5000000
  17670 multiletter control sequences out of 15000+600000
  4016 words of font info for 61 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191

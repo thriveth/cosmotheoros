@@ -1,94 +1,94 @@
 \contentsline {chapter}{TO THE READER}{iii}
 \contentsline {chapter}{THE PUBLISHER TO THE READER}{v}
-\contentsline {chapter}{BOOK the First}{1}
+\contentsline {chapter}{BOOK the Firſt}{1}
 \contentsline {section}{Some have already talk'd of the Inhabitants of the Planets, but went no farther}{1}
 \contentsline {section}{The Objections of ignorant Cavillers prevented}{2}
-\contentsline {section}{These Conjectures do not contradict the holy Scriptures}{2}
+\contentsline {section}{Theſe Conjectures do not contradict the holy Scriptures}{2}
 \contentsline {section}{This Enquiry not overcurious}{3}
-\contentsline {section}{Conjectures not useless, because not certain}{3}
-\contentsline {section}{These Studies useful to Religion}{4}
-\contentsline {section}{Copernicus's System explain'd}{4}
+\contentsline {section}{Conjectures not uſeleſs, becauſe not certain}{3}
+\contentsline {section}{Theſe Studies uſeful to Religion}{4}
+\contentsline {section}{Copernicus's Syſtem explain'd}{4}
 \contentsline {section}{Arguments for the truth of it}{6}
-\contentsline {section}{The Proportion of the Magnitude of the Planets, in respect of one another, and the Sun}{7}
+\contentsline {section}{The Proportion of the Magnitude of the Planets, in reſpect of one another, and the Sun}{7}
 \contentsline {section}{The Lamellæ more convenient than Micrometers}{8}
-\contentsline {section}{The Earth justly liken'd to the Planets, and the Planets to it}{8}
-\contentsline {section}{Arguments from their Similitude of no small weight}{8}
-\contentsline {section}{The Planets are solid, and not without Gravity}{9}
+\contentsline {section}{The Earth juſtly liken'd to the Planets, and the Planets to it}{8}
+\contentsline {section}{Arguments from their Similitude of no ſmall weight}{8}
+\contentsline {section}{The Planets are ſolid, and not without Gravity}{9}
 \contentsline {section}{Have Animals and Plants}{9}
 \contentsline {section}{Not to be imagin'd too unlike ours}{9}
 \contentsline {section}{Planets have Water}{10}
-\contentsline {section}{But not just like ours}{11}
-\contentsline {section}{Plants grow and are nourish'd there as they are here}{11}
-\contentsline {section}{The same true of their Animals}{12}
+\contentsline {section}{But not juſt like ours}{11}
+\contentsline {section}{Plants grow and are nouriſh'd there as they are here}{11}
+\contentsline {section}{The ſame true of their Animals}{12}
 \contentsline {section}{Great variety of Animals in this Earth}{13}
-\contentsline {section}{And no less in the Planets}{14}
+\contentsline {section}{And no leſs in the Planets}{14}
 \contentsline {section}{Rational Animals in the Planets}{14}
 \contentsline {section}{Vices of Men no hindrance to their being the Glory of the Planet they inhabit}{15}
-\contentsline {section}{Reason there not different from what 'tis here}{15}
-\contentsline {section}{They have Senses}{16}
+\contentsline {section}{Reaſon there not different from what 'tis here}{15}
+\contentsline {section}{They have Senſes}{16}
 \contentsline {section}{Sight}{16}
 \contentsline {section}{Hearing}{17}
 \contentsline {section}{A Medium to convey Sound to the Ears}{18}
 \contentsline {section}{Touch}{18}
-\contentsline {section}{Smell and Tast}{18}
-\contentsline {section}{Their Senses not very different from ours}{18}
-\contentsline {section}{They have Pleasure arising from the Senses}{19}
+\contentsline {section}{Smell and Taſt}{18}
+\contentsline {section}{Their Senſes not very different from ours}{18}
+\contentsline {section}{They have Pleaſure ariſing from the Senſes}{19}
 \contentsline {section}{All the Planets have Fire}{19}
-\contentsline {section}{The bigness of their Creatures not rightly guest at by the bigness of the Planets}{20}
-\contentsline {section}{In the Planets are many sorts of rational Creatures as well as here}{20}
-\contentsline {section}{Men chiefly differ from Beasts in the study of Nature}{22}
-\contentsline {section}{They have Astronomy}{22}
-\contentsline {section}{And all its subservient Arts}{23}
+\contentsline {section}{The bigneſs of their Creatures not rightly gueſt at by the bigneſs of the Planets}{20}
+\contentsline {section}{In the Planets are many ſorts of rational Creatures as well as here}{20}
+\contentsline {section}{Men chiefly differ from Beaſts in the ſtudy of Nature}{22}
+\contentsline {section}{They have Aſtronomy}{22}
+\contentsline {section}{And all its ſubſervient Arts}{23}
 \contentsline {section}{Geometry and Arithmetick}{23}
 \contentsline {section}{And Writing}{23}
 \contentsline {section}{And Opticks}{23}
-\contentsline {section}{These Sciences not contrary to Nature}{24}
+\contentsline {section}{Theſe Sciences not contrary to Nature}{24}
 \contentsline {section}{They have Hands}{25}
 \contentsline {section}{And Feet}{26}
 \contentsline {section}{That they are upright}{26}
-\contentsline {section}{It follows not therefore that they have the same shape with us}{26}
+\contentsline {section}{It follows not therefore that they have the ſame ſhape with us}{26}
 \contentsline {section}{A rational Soul may inhabit another Shape than ours}{27}
-\contentsline {section}{The Planetarians not less than we}{27}
+\contentsline {section}{The Planetarians not leſs than we}{27}
 \contentsline {section}{They live in Society}{28}
-\contentsline {section}{They enjoy the pleasures of Society}{28}
-\contentsline {section}{They have Houses to secure 'em from Weather}{28}
-\contentsline {section}{They have Navigation and all Arts subservient}{29}
+\contentsline {section}{They enjoy the pleaſures of Society}{28}
+\contentsline {section}{They have Houſes to ſecure 'em from Weather}{28}
+\contentsline {section}{They have Navigation and all Arts ſubſervient}{29}
 \contentsline {section}{As Geometry}{29}
-\contentsline {section}{They have Musick}{30}
+\contentsline {section}{They have Muſick}{30}
 \contentsline {section}{The Advantages we reap from Herbs and Animals}{32}
 \contentsline {section}{And from Metals}{33}
-\contentsline {section}{From the discoveries of our Age}{33}
-\contentsline {section}{The Planets have, tho not these same, yet as useful inventions}{34}
+\contentsline {section}{From the diſcoveries of our Age}{33}
+\contentsline {section}{The Planets have, tho not theſe ſame, yet as uſeful inventions}{34}
 \contentsline {chapter}{BOOK the Second}{35}
-\contentsline {section}{Kircher's Journey in Ecstacy examin'd}{35}
-\contentsline {section}{The System of the Planets in Mercury}{36}
+\contentsline {section}{Kircher's Journey in Ecſtacy examin'd}{35}
+\contentsline {section}{The Syſtem of the Planets in Mercury}{36}
 \contentsline {section}{In Venus}{37}
 \contentsline {section}{In Mars}{38}
-\contentsline {section}{Jupiter and Saturn the most eminent of the Planets both for bigness and attendants}{38}
+\contentsline {section}{Jupiter and Saturn the moſt eminent of the Planets both for bigneſs and attendants}{38}
 \contentsline {section}{The proportion of the Diameter of Jupiter, and of the Orbs of his Satellites, to the Orbit of the Moon round the Earth}{40}
 \contentsline {section}{The periods of Jupiter's Moons}{40}
 \contentsline {section}{And Saturn's}{40}
-\contentsline {section}{This proportion true according to all modern Observations}{40}
+\contentsline {section}{This proportion true according to all modern Obſervations}{40}
 \contentsline {section}{The apparent magnitude of the Sun in Jupiter, and a way of finding what light they there enjoy}{41}
 \contentsline {section}{And in Saturn}{41}
 \contentsline {section}{In Jupiter their days are 5 hours}{41}
-\contentsline {section}{Always the same length}{42}
-\contentsline {section}{They see the fixt Stars just as we do}{42}
+\contentsline {section}{Always the ſame length}{42}
+\contentsline {section}{They ſee the fixt Stars juſt as we do}{42}
 \contentsline {section}{The appearances of the Ring in Saturn}{43}
-\contentsline {section}{Very little to be said of the Moon}{44}
-\contentsline {section}{The Guards of Jupiter and Saturn of the same nature with our Moon}{45}
+\contentsline {section}{Very little to be ſaid of the Moon}{44}
+\contentsline {section}{The Guards of Jupiter and Saturn of the ſame nature with our Moon}{45}
 \contentsline {section}{The Moon hath Mountains}{45}
 \contentsline {section}{But no Sea, nor Rivers, nor Clouds, nor Airs and Waters}{45}
 \contentsline {section}{The Conjecture of its Plants and Animals very dubious}{46}
-\contentsline {section}{Jupiter's and Saturn's Moons turn always the same side to them}{46}
-\contentsline {section}{The Astronomy of the Inhabitants of the Moon}{47}
+\contentsline {section}{Jupiter's and Saturn's Moons turn always the ſame ſide to them}{46}
+\contentsline {section}{The Aſtronomy of the Inhabitants of the Moon}{47}
 \contentsline {section}{This may be applied to the Moons about Jupiter and Saturn}{48}
-\contentsline {section}{The immense distance between the Sun and the Planets illustrated}{49}
+\contentsline {section}{The immenſe diſtance between the Sun and the Planets illuſtrated}{49}
 \contentsline {section}{No ground for Conjecture in the Sun}{50}
-\contentsline {section}{The Faculæ in the Sun not easily seen}{50}
-\contentsline {section}{By reason of its Heat no Inhabitants like ours can live in the Sun}{50}
-\contentsline {section}{The fix'd Stars so many Suns}{51}
-\contentsline {section}{They are not all in the same Sphere}{51}
+\contentsline {section}{The Faculæ in the Sun not eaſily ſeen}{50}
+\contentsline {section}{By reaſon of its Heat no Inhabitants like ours can live in the Sun}{50}
+\contentsline {section}{The fix'd Stars ſo many Suns}{51}
+\contentsline {section}{They are not all in the ſame Sphere}{51}
 \contentsline {section}{The Stars have Planets about them like our Sun}{52}
-\contentsline {section}{A way of making a probable guess at the distance of the Stars}{53}
-\contentsline {section}{Every Sun has a Vortex round it, very different from those of Cartes}{54}
+\contentsline {section}{A way of making a probable gueſs at the diſtance of the Stars}{53}
+\contentsline {section}{Every Sun has a Vortex round it, very different from thoſe of Cartes}{54}
