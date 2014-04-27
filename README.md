@@ -5,11 +5,12 @@ Cosmotheoros
 
 This repository holds the finished PDF and source files for my typeset version of Christiaan Huygens' scientific and philosophical work, which he finished shortly before his death and was published posthumously.
 
-I have found the text and images at the web page of [R.H. van Gent], cleaned the figures a bit in [Gimp], and typeset the text with $\rm Xe\LaTeX$ and the great `fontspec` package. 
+I have found the text and images at the web page of [R.H. van Gent], cleaned the figures a bit in [Gimp], and typeset the text with XeLaTeX and the great `fontspec` package. 
 
 I have used the image of the Latin version of the book found on R.H. van Gents site as the cover, and typeset a version based on pictures of the original English version as the title page. 
 
 ![Front of the original Latin version, from R.H. van Gents page](Images/ct_title_sm_la.jpg)
+
 *Front of the original Latin version, from R.H. van Gents page.*
 
 
