@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  26 APR 2014 01:13
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.4.2)  26 APR 2014 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,214 +399,254 @@ LaTeX Info: Redefining \upshape on input line 2102.
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO' with script 'Latin' and language
+* 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
-*************************************************
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond'
-* with script 'Latin' and language 'Default'.
-*************************************************
-\g_fontspec_family_EB Garamond_int=\count124
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
-*************************************************
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
-*************************************************
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond'
-* with script 'Latin' and language 'Default'.
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond'
-* with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO' with script 'Latin' and language 'Default'.
+*************************************************
+\g_fontspec_family_IM FELL English PRO_int=\count124
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond 08 Regular' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond 08 Regular' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond 08
-* Regular' with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO' with script 'Latin' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond 08 Regular' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond 08 Regular' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond 08
-* Regular' with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO' with script 'Latin' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond/I'
-* with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO' with script 'Latin' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond/I'
-* with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO' with script 'Latin' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO/I' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond 08 Regular/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond 08 Regular/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond 08
-* Regular/I' with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO/I' with script 'Latin' and language 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common, Rare, Historic, TeX' (+hlig) not
+* available for font 'IM FELL English PRO/I' with script 'Latin' and language
+* 'Default'.
+*************************************************
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Numbers=OldStyle' (+onum) not available for font 'IM FELL
+* English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+cswh) not available for font
-* 'EB Garamond 08 Regular/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Contextuals=Swash, Inner' (+medi) not available for font
-* 'EB Garamond 08 Regular/I' with script 'Latin' and language 'Default'.
+* 'IM FELL English PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Variant=0' (+ss00) not available for font 'EB Garamond 08
-* Regular/I' with script 'Latin' and language 'Default'.
+* OpenType feature 'Variant=0' (+ss00) not available for font 'IM FELL English
+* PRO/I' with script 'Latin' and language 'Default'.
 *************************************************
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(0)' created for font 'EB Garamond' with options [
-. Ligatures={Common, Rare, Historic, TeX}, Numbers=OldStyle,
-. Contextuals={Swash, Inner}, Variant=0, BoldFont={EB Garamond 08 Regular}, ].
+. Font family 'IMFELLEnglishPRO(0)' created for font 'IM FELL English PRO'
+. with options [ Ligatures={Common, Rare, Historic, TeX}, Numbers=OldStyle,
+. Contextuals={Swash, Inner}, Style=Historic, Variant=0, BoldFont={IM FELL
+. English PRO}, ].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"EB
-. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+on
-um;"
+. <->"IM FELL English
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
 . 
 . * 'small caps' with NFSS spec.:
-. <->"EB
-. Garamond/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+on
-um;+smcp;"
+. <->"IM FELL English
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;+smcp;"
 . 
 . * 'bold' with NFSS spec.:
-. <->"EB Garamond 08
-. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+onu
-m;"
+. <->"IM FELL English
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
 . 
 . * 'bold small caps' with NFSS spec.:
-. <->"EB Garamond 08
-. Regular/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+onu
-m;+smcp;"
+. <->"IM FELL English
+. PRO/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;+smcp;"
 . 
 . * 'italic' with NFSS spec.:
-. <->"EB
-. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+
-onum;"
-. 
-. * 'italic small caps' with NFSS spec.:
-. <->"EB
-. Garamond/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+
-onum;+smcp;"
+. <->"IM FELL English
+. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
 . 
 . * 'bold italic' with NFSS spec.:
-. <->"EB Garamond 08
-. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+o
-num;"
-. 
-. * 'bold italic small caps' with NFSS spec.:
-. <->"EB Garamond 08
-. Regular/I/ICU:script=latn;language=DFLT;+liga;+dlig;+hlig;mapping=tex-text;+o
-num;+smcp;"
+. <->"IM FELL English
+. PRO/I/ICU:script=latn;language=DFLT;+liga;+dlig;mapping=tex-text;+hist;"
 .................................................
 (/usr/share/texlive/texmf-dist/tex/latex/xltxtra/xltxtra.sty
 Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
@@ -754,26 +794,26 @@ File: ppxetex.def 2013/08/25 v0.4v Pdfpages driver for XeTeX (AM)
 (./cosmotheoros.aux)
 \openout1 = `cosmotheoros.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 20.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -781,70 +821,70 @@ LaTeX Font Info:    ... okay on input line 22.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/EBGaramond(0)/m/n on input line 22.
-
+(Font)                  OT1/cmr/m/n --> EU1/IMFELLEnglishPRO(0)/m/n on input li
+ne 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/m/n on input line 22
-.
+(Font)                  OT1/cmr/bx/n --> EU1/IMFELLEnglishPRO(0)/m/n on input l
+ine 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/m/n on inpu
-t line 22.
+(Font)                  EU1/IMFELLEnglishPRO(0)/m/n --> EU1/IMFELLEnglishPRO(0)
+/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/m/n on inpu
-t line 22.
+(Font)                  EU1/IMFELLEnglishPRO(0)/m/n --> EU1/IMFELLEnglishPRO(0)
+/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/EBGaramond(0)/m/it on input line 2
-2.
+(Font)                  OT1/cmr/m/it --> EU1/IMFELLEnglishPRO(0)/m/it on input 
+line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/bx/n on input line 2
-2.
+(Font)                  OT1/cmr/bx/n --> EU1/IMFELLEnglishPRO(0)/bx/n on input 
+line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/bx/n on inp
-ut line 22.
+(Font)                  EU1/IMFELLEnglishPRO(0)/m/n --> EU1/IMFELLEnglishPRO(0)
+/bx/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/bx/n on inp
-ut line 22.
+(Font)                  EU1/IMFELLEnglishPRO(0)/m/n --> EU1/IMFELLEnglishPRO(0)
+/bx/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/EBGaramond(0)/bx/it on input line
- 22.
+(Font)                  OT1/cmr/bx/it --> EU1/IMFELLEnglishPRO(0)/bx/it on inpu
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 20.
 \AtBeginShipoutBox=\box46
 File: ct_title_la.pdf Graphic file (type QTm)
 
@@ -872,44 +912,57 @@ File: ct_title_la.pdf Graphic file (type QTm)
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font EB Garamond/B (it probably doesn't exist).
+. Could not resolve font IM FELL English PRO/B (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. Font family 'IMFELLEnglishPRO(1)' created for font 'IM FELL English PRO'
+. with options [].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"EB Garamond/ICU:script=latn;language=DFLT;"
+. <->"IM FELL English PRO/ICU:script=latn;language=DFLT;"
 . 
 . * 'small caps' with NFSS spec.:
-. <->"EB Garamond/ICU:script=latn;language=DFLT;+smcp;"
+. <->"IM FELL English PRO/ICU:script=latn;language=DFLT;+smcp;"
 . 
 . * 'italic' with NFSS spec.:
-. <->"EB Garamond/I/ICU:script=latn;language=DFLT;"
-. 
-. * 'italic small caps' with NFSS spec.:
-. <->"EB Garamond/I/ICU:script=latn;language=DFLT;+smcp;"
+. <->"IM FELL English PRO/I/ICU:script=latn;language=DFLT;"
 . 
 . * 'bold italic' with NFSS spec.:
-. <->"EB Garamond/BI/ICU:script=latn;language=DFLT;"
-. 
-. * 'bold italic small caps' with NFSS spec.:
-. <->"EB Garamond/BI/ICU:script=latn;language=DFLT;+smcp;"
+. <->"IM FELL English PRO/BI/ICU:script=latn;language=DFLT;"
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. Font family 'IMFELLEnglishPRO(1)' created for font 'IM FELL English PRO'
+. with options [].
 . 
 . This font family consists of the following shapes:
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. Font family 'IMFELLEnglishPRO(1)' created for font 'IM FELL English PRO'
+. with options [].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'IMFELLEnglishPRO(1)' created for font 'IM FELL English PRO'
+. with options [].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'IMFELLEnglishPRO(1)' created for font 'IM FELL English PRO'
+. with options [].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -997,36 +1050,55 @@ Missing character: There is no   in font EB Garamond Initials/OT!
 . <->s*[.78]"EB Garamond Initials/ICU:"
 .................................................
 LaTeX Font Info:    Font shape `EU1/EBGaramondInitials(0)/m/n' will be
-(Font)              scaled to size 72.53001pt on input line 114.
+(Font)              scaled to size 69.45483pt on input line 111.
 Missing character: There is no   in font EB Garamond Initials/OT!
-
-Overfull \hbox (1.98013pt too wide) in paragraph at lines 114--133
-[][] \EU1/EBGaramond(0)/bx/n/10 of Copernicus’s Opinion, that this Earth of our
-s is a Planet,
- []
-
-[1
+ [1
 
 ] [2] [3]
 File: ct_1_en.jpg Graphic file (type QTm)
- <use  "ct_1_en.jpg" > [4]
+
+<use  "ct_1_en.jpg" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5]
 File: ct_2_en.jpg Graphic file (type QTm)
- <use  "ct_2_en.jpg" > [5] [6] [7]
+ <use  "ct_2_en.jpg" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 [8] [9] [10] [11] [12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-[15] [16]
+[15] [16] [17] [18] [19] [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
-[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [21]
+[22]
+Overfull \hbox (1.30664pt too wide) in paragraph at lines 1144--1147
+\EU1/IMFELLEnglishPRO(0)/bx/n/10 Again, these Instruments can’t be without a Ci
+rcle divided into equal Parts, or a streight
+ []
 
- [29]
-[30] [31] [32
 
-]
+Overfull \hbox (3.25098pt too wide) in paragraph at lines 1173--1189
+\EU1/IMFELLEnglishPRO(0)/bx/n/10 But for all our large and liberal allowances t
+o these Gentlemen, they will still be behind-
+ []
+
+[23] [24] [25] [26]
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+ [27]
+[28] [29] [30] [31]
+Underfull \vbox (badness 4291) has occurred while \output is active []
+
+ [32]
+[33] [34]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1041,52 +1113,76 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 . 
 . This font family consists of the following shapes:
 .................................................
+\g_fontspec_family_EB Garamond_int=\count133
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font EB Garamond/B (it probably doesn't exist).
+.................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. Font family 'EBGaramond(0)' created for font 'EB Garamond' with options [].
 . 
 . This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"EB Garamond/ICU:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"EB Garamond/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'italic small caps' with NFSS spec.:
+. <->"EB Garamond/I/ICU:script=latn;language=DFLT;+smcp;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"EB Garamond/BI/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic small caps' with NFSS spec.:
+. <->"EB Garamond/BI/ICU:script=latn;language=DFLT;+smcp;"
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. Font family 'EBGaramond(0)' created for font 'EB Garamond' with options [].
 . 
 . This font family consists of the following shapes:
 .................................................
- [33] [34]
-Underfull \vbox (badness 1817) has occurred while \output is active []
+ [35
 
- [35]
+] [36] [37]
 File: ct_3_en.jpg Graphic file (type QTm)
+ <use  "ct_3_en.jpg" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use  "ct_3_en.jpg" > [36] [37] [38] [39]
+ [38]
+[39] [40] [41] [42]
 File: ct_4_en.jpg Graphic file (type QTm)
- <use  "ct_4_en.jpg" > [40] [41]
-[42] [43] [44]
-File: ct_5_en.jpg Graphic file (type QTm)
- <use  "ct_5_en.jpg" >
-Underfull \vbox (badness 1038) has occurred while \output is active []
+ <use  "ct_4_en.jpg" > [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
-Underfull \vbox (badness 6078) has occurred while \output is active []
-
- [46]
-Underfull \vbox (badness 6461) has occurred while \output is active []
+ [44]
+[45] [46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
+File: ct_5_en.jpg Graphic file (type QTm)
+
+<use  "ct_5_en.jpg" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48]
-[49] [50] [51] [52] (./cosmotheoros.aux) ) 
+[49] [50] [51] [52] [53] [54] [55] [56] (./cosmotheoros.aux) ) 
 Here is how much of TeX's memory you used:
- 14538 strings out of 493918
- 298058 string characters out of 6150564
- 363047 words of memory out of 5000000
- 17656 multiletter control sequences out of 15000+600000
- 4008 words of font info for 60 fonts, out of 8000000 for 9000
+ 14556 strings out of 493918
+ 298660 string characters out of 6150564
+ 360473 words of memory out of 5000000
+ 17670 multiletter control sequences out of 15000+600000
+ 4016 words of font info for 61 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,18n,50p,10401b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,18n,51p,10401b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cosmotheoros.pdf (64 pages).
+Output written on cosmotheoros.pdf (68 pages).
