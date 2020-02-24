@@ -35,7 +35,7 @@ It is generally a very visionary and surprisingly clear/sighted book, although i
 
 I have spent some time looking around for good fonts to emulate the old-style Latin letters of the late 17th century, when I stumbled onto the fantastic [Fell Type] fonts designed by Igino Marini, which do just that: Emulate typical typefaces and print quality of that era. They are high-quality fonts with great support for OpenType features like historical style, different ligature sets etc. - I think it looks pretty good with these fonts. The fonts do not have a **bold** version, but this was not generally used at the time. This book uses the 'IM Fell English PRO' font. Best of all: They are free and open source!
 
-The use of the 'Long s'  (ſ) character follows the rules listed at the [Babelstone] blog for 17th century books. XeLaTeX has some support for simple rules, but as is described in the Babelstone blog post, these rules (basically: Short 's' at the end of words, long 'ſ' at the beginning and inside of words) are somewhat over/simplified and inaccurate.
+The use of the 'Long s'  (ſ) character follows the rules listed at the [Babelstone] blog for 17th century books. XeLaTeX has some support for simple rules, but as is described in the Babelstone blog post, these rules (basically: Short 's' at the end of words, long 'ſ' at the beginning and inside of words) are somewhat over-simplified and inaccurate.
 
 
 
